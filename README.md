@@ -165,7 +165,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-- **Geliştirici**: İbrahimsql
+- **Geliştirici**: İbrahimsql,Iron
 - **E-posta**: ibrahimsql@proton.me
 - **GitHub**: [İbrahimsql](https://github.com/İbrahimsql)
 
