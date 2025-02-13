@@ -1,8 +1,8 @@
 ---
 
-# All Checker Tool
+# Checker Tool
 
-All Checker Tool, Steam hesaplarını kontrol etmek için geliştirilmiş bir Python aracıdır. Bu araç, kullanıcı adı ve şifre listesi verilen hesapların giriş yapıp yapamadığını, bakiye bilgilerini, envanterlerini, oyun kütüphanelerini, profil bilgilerini ve trade URL'lerini kontrol eder. Sonuçlar JSON, CSV ve PDF formatlarında kaydedilir.
+Checker Tool, Steam hesaplarını kontrol etmek için geliştirilmiş bir Python aracıdır. Bu araç, kullanıcı adı ve şifre listesi verilen hesapların giriş yapıp yapamadığını, bakiye bilgilerini, envanterlerini, oyun kütüphanelerini, profil bilgilerini ve trade URL'lerini kontrol eder. Sonuçlar JSON, CSV ve PDF formatlarında kaydedilir.
 
 ---
 
